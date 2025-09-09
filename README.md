@@ -2,7 +2,7 @@
 <img align="right" alt="Coding GIF" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <!-- Main Introduction -->
-<h1 align="left">Hi there 👋, I'm Samson Okuthe</h1>
+<h1 align="left">Hi there 👋, I'm Samson</h1>
 <h3 align="left">Electrical & Computer Engineering Student at UCT</h3>
 
 <!-- A little bit about you. Use emojis to make it stand out! -->

@@ -43,10 +43,10 @@
   </a>
 </p>
 
-<!-- GitHub Stats (Personalized for you!) -->
+<!-- GitHub Stats (Personalized for you!) 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0geder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0geder&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+</p>-->

@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Arduino-based projects and exploring Python for data analysis.**
 - 🌱 I’m currently learning **advanced data structures and algorithms.**
 - 🤝 I’m looking to collaborate on **open-source projects related to IoT or educational tech.**
-- 💬 Ask me about **my experience as a Resident Tutor or GCI Representative.**
+<!--- 💬 Ask me about **my experience as a Resident Tutor or GCI Representative.**-->
 - 📫 How to reach me: **[OKTSAM001@myuct.ac.za](mailto:OKTSAM001@myuct.ac.za)** or on **[LinkedIn](https://www.linkedin.com/in/samson-okuthe-641aa8265/)**
 
 <br/>

@@ -3,11 +3,10 @@
 
 <!-- Main Introduction -->
 <h1 align="left">Hi there 👋, I'm Samson</h1>
-<h3 align="left">Electrical & Computer Engineering Student at UCT</h3>
 
 <!-- A little bit about you. Use emojis to make it stand out! -->
 <p align="left">
-  I’m a third-year engineering student interested in how hardware and software come together to solve real problems. I enjoy learning, building, and growing through challenges.
+  I’m a third-year Electrical & Computer Engineering Student interested in how hardware and software come together to solve real problems. I enjoy learning, building, and growing through challenges.
 </p>
 
 - 💭 Always exploring new ideas and skills.

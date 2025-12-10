@@ -7,14 +7,12 @@
 
 <!-- A little bit about you. Use emojis to make it stand out! -->
 <p align="left">
-  I'm a third-year engineering student passionate about the intersection of hardware and software. I thrive on solving complex problems and am currently honing my skills in embedded systems, software development, and student leadership.
+  I’m a third-year engineering student interested in how hardware and software come together to solve real problems. I enjoy learning, building, and growing through challenges.
 </p>
 
-- 🔭 I’m currently working on **Arduino-based projects and exploring Python for data analysis.**
-- 🌱 I’m currently learning **advanced data structures and algorithms.**
+- 💭 Always exploring new ideas and skills.
 - 🤝 I’m looking to collaborate on **open-source projects related to IoT or educational tech.**
-<!--- 💬 Ask me about **my experience as a Resident Tutor or GCI Representative.**-->
-- 📫 How to reach me: **[OKTSAM001@myuct.ac.za](mailto:OKTSAM001@myuct.ac.za)** or on **[LinkedIn](https://www.linkedin.com/in/samson-okuthe-641aa8265/)**
+- 📫 Contact: **[OKTSAM001@myuct.ac.za](mailto:OKTSAM001@myuct.ac.za)** or on **[LinkedIn](https://www.linkedin.com/in/samson-okuthe-641aa8265/)**
 
 <br/>
 

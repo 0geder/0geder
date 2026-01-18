@@ -6,7 +6,8 @@
 
 <!-- A little bit about you. Use emojis to make it stand out! -->
 <p align="left">
-  I’m a Final-year Electrical & Computer Engineering Student interested in how hardware and software come together to solve real problems. I enjoy learning, building, and growing through challenges.
+  I’m a Final-year Electrical & Computer Engineering Student interested in how hardware and software come together to solve real problems. 
+  I enjoy learning, building, and growing through challenges.
 </p>
 
 - 💭 Always exploring new ideas and skills.

@@ -1,22 +1,33 @@
-<!-- The header GIF. You can find more on Giphy or Tenor by searching "coding" or "engineering". -->
-<!-- img align="right" alt="Coding GIF" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"-->
+<!-- The header GIF (optional, uncomment if you want it) -->
+<!--
+<img align="right" alt="Coding GIF" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+-->
 
 <!-- Main Introduction -->
 <h1 align="left">Hi there 👋, I'm Samson</h1>
 
-<!-- A little bit about you. Use emojis to make it stand out! -->
+<!-- Profile Views Counter -->
 <p align="left">
-  I’m a Final-year Electrical & Computer Engineering Student interested in how hardware and software come together to solve real problems. 
+  <img src="https://komarev.com/ghpvc/?username=0geder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<!-- A little bit about you -->
+<p align="left">
+  I’m a Final-year Electrical & Computer Engineering student interested in how hardware and software come together to solve real-world problems.  
   I enjoy learning, building, and growing through challenges.
 </p>
 
-- 💭 Always exploring new ideas and skills.
-- 🤝 I’m looking to collaborate on **open-source projects related to IoT or educational tech.**
-- 📫 Contact: **[OKTSAM001@myuct.ac.za](mailto:OKTSAM001@myuct.ac.za)** or on **[LinkedIn](https://www.linkedin.com/in/samson-okuthe-641aa8265/)**
+<ul>
+  <li>💭 Always exploring new ideas and skills.</li>
+  <li>🤝 Open to collaborating on <strong>open-source projects related to IoT and educational tech</strong>.</li>
+  <li>📫 Contact: <strong><a href="mailto:OKTSAM001@myuct.ac.za">OKTSAM001@myuct.ac.za</a></strong> or on 
+      <strong><a href="https://www.linkedin.com/in/samson-okuthe-641aa8265/">LinkedIn</a></strong>
+  </li>
+</ul>
 
 <br/>
 
-<!-- Skills Section with Icons -->
+<!-- Skills Section -->
 <h3 align="left">My Skills & Tools:</h3>
 <p align="left">
   <!-- Python -->
@@ -41,10 +52,11 @@
   </a>
 </p>
 
-<!-- GitHub Stats (Personalized for you!) 
+<!-- GitHub Stats (Optional: uncomment if you want stats visible)
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0geder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0geder&layout=compact&langs_count=8&theme=dracula"/>
-</p>-->
+</p>
+-->
